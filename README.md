@@ -8,6 +8,8 @@ For you to keep track of your laps when you run.
 
 But why not count the number of laps yourself?
 > Because it gets hard to keep track of how many laps you have run, especially when you've just ran your 16th lap for the third time. <br>
+
+
 Suitable for tracks with short laps (e.g. less than 200m).
 <br>
 
